@@ -1,5 +1,4 @@
 <!-- Add banner here -->
-# - Hello
 # Project Title
 
 <!-- Add buttons here -->
